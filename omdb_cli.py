@@ -2,7 +2,7 @@
 import requests
 import json
 import sys
-if len(sys.argv)==1 or len(sys.argv)==2:
+if len(sys.argv)==1 or len(sys.argv)==2 or sys.argv[1]!='-movie' :
     print('Usage is wrong:')
     print('omdb_cli.py -movie batman')
     exit(1)
