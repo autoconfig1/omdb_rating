@@ -1,11 +1,11 @@
 # Omdb Rating
 Simple Coding Homework Assignment
 
-## Langurage used
+## Language used
 Python 3.7 
 
 ## Assignment
-Created python program with folowing usage format and dockerized this program
+Created python program for getting Rotten tomoto rating for particular movie  and dockerized this program
 
 ## Commands to Run inside docker
 
